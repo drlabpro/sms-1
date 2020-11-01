@@ -16,5 +16,5 @@ This ( SCHOOL MANAGEMENT SYSTEM ) software helps you to save and track teachers 
 4 Easy to customisable
 
 
-If you have any more ideas on features or find any bug or problem feel free to # contact me at deveshkumarsingh75@gmail.com .
+If you have any more ideas on features or find any bug or problem feel free to contact me at deveshkumarsingh75@gmail.com .
 Thank you for choosing my work
