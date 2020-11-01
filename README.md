@@ -5,7 +5,7 @@ This Software is developed by DEVESH SINGH on Date Sunday 31 November 2020 With 
 
 This ( SCHOOL MANAGEMENT SYSTEM ) software helps you to save and track teachers details , sallery and students information in simple fast and relaible way.
 
-FEATURES
+# FEATURES
 
 1 Add Definef number of teacher and students
 
@@ -16,5 +16,5 @@ FEATURES
 4 Easy to customisable
 
 
-If you have any more ideas on features or find any bug or problem feel free to contact me at deveshkumarsingh75@gmail.com .
+If you have any more ideas on features or find any bug or problem feel free to # contact me at deveshkumarsingh75@gmail.com .
 Thank you for choosing my work
