@@ -7,13 +7,16 @@ This ( SCHOOL MANAGEMENT SYSTEM ) software helps you to save and track teachers 
 
 # FEATURES
 
-1 Add Definef number of teacher and students
+1 Login System for security
+  ( Default password : 𝗱𝗲𝘃𝗲𝘀𝗵 )
 
-2 Add unlimited teachers and students at a time
+2 Add Definef number of teacher and students
 
-3 Show Teacher and Students details in mannerised way.
+3 Add unlimited teachers and students at a time
 
-4 Easy to customisable
+4 Show Teacher and Students details in mannerised way.
+
+5 Easy to customisable
 
 # Contact
 If you have any more ideas on features or find any bug or problem feel free to contact me at deveshkumarsingh75@gmail.com .
